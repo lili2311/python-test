@@ -96,7 +96,7 @@ SQLAlchemy==1.1.14
 sqlalchemy-redshift==0.7.0
 sqlsoup==0.9.0
 tabulate==0.7.7
-thrift==0.9.3
+thrift==0.13.0
 tornado==4.5.1
 traitlets==4.3.2
 unicodecsv==0.14.1
