@@ -81,7 +81,7 @@ python-nvd3==0.14.2
 python-slugify==1.1.4
 pytz==2015.7
 pywurfl==7.2.1
-PyYAML==3.12
+PyYAML==5.3.1
 requests==2.9.1
 rsa==3.4.2
 s3transfer==0.1.10
