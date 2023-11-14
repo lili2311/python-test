@@ -92,7 +92,7 @@ simplejson==3.8.2
 singledispatch==3.4.0.3
 six==1.10.0
 smmap2==2.0.3
-SQLAlchemy==1.1.14
+SQLAlchemy==1.2.18
 sqlalchemy-redshift==0.7.0
 sqlsoup==0.9.0
 tabulate==0.7.7
