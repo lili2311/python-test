@@ -9,11 +9,11 @@ billiard==3.5.0.2
 boto==2.48.0
 boto3==1.7.27
 botocore==1.10.27
-celery==4.0.2
+celery==4.4.0rc5
 cffi==1.9.1
 click==6.7
 croniter==0.3.17
-cryptography==2.2.2
+cryptography==42.0.2
 dateutils==0.6.6
 decorator==4.0.11
 dill==0.2.6
